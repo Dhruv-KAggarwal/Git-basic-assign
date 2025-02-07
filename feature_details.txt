@@ -1,1 +1,2 @@
 This new feature will allow users to track project milestones.
+Added new content on the main branch for the feature details.
