@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+Added new content on the main branch for the feature details.
+=======
+This new feature will allow users to track project milestones.
+>>>>>>> feature-update
+
+<<<<<<< HEAD
+=======
+This new feature will allow users to track project milestones.
+>>>>>>> feature-update
 Added new content on the main branch for the feature details.
